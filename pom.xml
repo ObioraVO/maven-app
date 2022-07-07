@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.227.6.248:8081/repository/CIBC-Release/</url>
+	      <url>http://54.157.55.77:8081/repository/CIBC-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.227.6.248:8081/repository/CIBC-snapshot/</url>
+	      <url>http://54.157.55.77:8081/repository/CIBC-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
